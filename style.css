@@ -1,0 +1,70 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap");
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: Montserrat;
+}
+body{
+width: 1920px;
+height: 1080px;
+background-image: url("https://cdn-sharing.adobecc.com/content/storage/id/urn:aaid:sc:US:3e5bdfff-8c40-42c0-8fd9-125ed8881d4e;revision=0?component_id=2aa22924-402c-4d35-bcf9-2acd27754d88&api_key=CometServer1&access_token=1650686614_urn%3Aaaid%3Asc%3AUS%3A3e5bdfff-8c40-42c0-8fd9-125ed8881d4e%3Bpublic_40f23d6417b728c9bfed356cdb0f1b3779ce1dec");
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+header{
+ margin-top: -33px;
+  
+  color: white;
+  width: 100%;
+  display: inline-block;
+}
+.menu{
+ 
+  margin-left: 700px;
+ 
+}
+.menu2{
+  text-align: center;
+  margin-top: -65px ;
+}
+.menu3{
+  display: inline-block;
+  width: 10vw;
+}
+.texto{
+ 
+display: inline-block;
+margin-bottom: 20px;
+padding: 20px;
+}
+.logo{
+ 
+ 
+  display: inline-block;
+  padding-top: 45px;
+  margin-top: 15px;
+  width: 106px;
+  margin-left: 150px;
+}
+.geralt{
+  margin-left: 250px;
+}
+main{
+  background-image: url("");
+  background-repeat: no-repeat;
+  margin-top: -10px;
+  margin-left:40px;
+
+  width: 1850px;
+  height:1030px;
+}
+.logo-the{
+display: inline-block;
+margin-left: -550px;
+margin-bottom: 330px;
+}
+.botao{
+  margin: -330px;
+  padding-left: 1030px;
+}
